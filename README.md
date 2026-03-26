@@ -42,7 +42,7 @@ To become a Data Analyst and build strong SQL and analytical skills.
 - 🔄 Intermediate SQL (In Progress)  
 - ⏳ Advanced SQL (Upcoming)
 
----
+-
 
 ## 📌 Author
 Navneet Keshari
