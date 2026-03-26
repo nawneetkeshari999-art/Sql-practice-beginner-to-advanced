@@ -6,7 +6,7 @@ This repository contains my SQL learning journey from beginner to advanced. Incl
 This repository contains my SQL learning journey from beginner to advanced level.  
 It includes practice queries, real-world problems, and mini projects focused on Data Analyst skills.
 
----
+-
 
 ## 📚 Topics Covered
 
@@ -23,19 +23,19 @@ It includes practice queries, real-world problems, and mini projects focused on 
 - Window Functions
 - Complex Queries
 
----
+-
 
 ## 🎯 Goal
 To become a Data Analyst and build strong SQL and analytical skills.
 
----
+-
 
 ## 🛠 Tools Used
 - MySQL
 - LeetCode
 - HackerRank
 
----
+-
 
 ## 📈 Progress
 - ✔ Basic SQL Completed  
